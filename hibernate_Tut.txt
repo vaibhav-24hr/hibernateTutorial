@@ -1,0 +1,17 @@
+hibernate -- framework -- database 
+orm --  object relational mapping 
+
+
+RDBMS -> relational -> table 
+
+class - object 
+
+table - relational 
+
+
+
+db - users userId    varchar(30) firstName |    java user userId  String firstName 
+							  User user = new User();
+						       save(user); //insert 
+
+dialect ---
